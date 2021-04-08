@@ -2,7 +2,7 @@
 
 Landing page of Miami
 
-Used technologies: HTML5, CSS/SCSS
+Used technologies: HTML5, CSS/SCSS, BEM
 
 [Preview](https://nub1a.github.io/miami_landing/)
 
